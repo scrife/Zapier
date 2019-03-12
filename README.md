@@ -1,4 +1,5 @@
 Monthly Active Users and Churn Analysis
+
 This work is aimed to provide an understanding of my coding(in SQL), analysis and visualization skills when appplied to calculate the active and churned users on a daily and monthly basis.
 
 Requirements:
